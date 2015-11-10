@@ -1,0 +1,71 @@
+{
+    "allowed_windows": [
+        {
+            "name": "PowerPoint Slide Show", 
+            "on_left": "(nothing)`K_LEFT", 
+            "on_pclose": "(nothing)`y", 
+            "on_popen": "(nothing)`z", 
+            "on_right": "(nothing)`K_RIGHT", 
+            "works_on": "Hand"
+        }, 
+        {
+            "name": "VLC", 
+            "on_left": "(nothing)`p", 
+            "on_pclose": "(nothing)`.", 
+            "on_popen": "(nothing)`,", 
+            "on_right": "(nothing)`n", 
+            "works_on": "Hand"
+        }, 
+        {
+            "name": "NexusImage", 
+            "on_left": "(nothing)`K_LEFT", 
+            "on_pclose": "(nothing)`K_DOWN", 
+            "on_popen": "(nothing)`K_UP", 
+            "on_right": "(nothing)`K_RIGHT", 
+            "works_on": "Face"
+        }, 
+        {
+            "name": "Picasa", 
+            "on_left": "(nothing)`K_LEFT", 
+            "on_pclose": "(nothing)`,", 
+            "on_popen": "(nothing)`.", 
+            "on_right": "(nothing)`K_RIGHT", 
+            "works_on": "Hand"
+        }, 
+        {
+            "name": "Windows Photo Viewer", 
+            "on_left": "(nothing)`K_LEFT", 
+            "on_pclose": "(nothing)`-", 
+            "on_popen": "K_CONTROL`+", 
+            "on_right": "(nothing)`K_RIGHT", 
+            "works_on": "Hand"
+        }, 
+        {
+            "name": "Travel", 
+            "on_left": "(nothing)`.", 
+            "on_pclose": "(nothing)`.", 
+            "on_popen": "(nothing)`.", 
+            "on_right": "(nothing)`.", 
+            "works_on": "Face"
+        }
+    ], 
+    "camera_settings": {
+        "source": 0
+    }, 
+    "detection_method": "Hand", 
+    "dilate": 3, 
+    "erode": 1, 
+    "filterDown": 52, 
+    "filterDownS": 20, 
+    "filterDownV": 20, 
+    "filterUp": 255, 
+    "filterUpS": 255, 
+    "filterUpV": 255, 
+    "idle": 1, 
+    "lower": 0, 
+    "noCnt": 0, 
+    "prevX": 155, 
+    "prevY": 415, 
+    "smooth": 24, 
+    "upper": 15
+}
